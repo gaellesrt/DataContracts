@@ -2,6 +2,13 @@
 
 L'équipe data science vient de terminer une présentation tendue devant le comité exécutif. Leurs prévisions de ventes pour le Black Friday étaient largement surestimées, causant un surstock coûteux. L'analyse révèle que le changement des règles de calcul du panier moyen, bien que documenté dans un ticket Jira, n'avait jamais été communiqué aux équipes d'analyse. Cette situation, malheureusement courante dans le retail, illustre pourquoi la gouvernance des data contracts ne peut pas se résumer à des aspects purement techniques.
 
+## Le contrat facilitateur de l'adoption du produit
+
+Standardise
+Et montre concrètement le résultat de ton produit
+>> Simplifie ce qu'on attend des sources, permet à une source d'être sure qu'elle a bien répondu aux enjeux identifiés
+>> Donne de la visibilité au consommateur sur les cas d'usage prévus au moment de la conception
+
 ## Pourquoi commencer par la gouvernance ?
 
 Le succès d'une initiative de data contracts ne repose pas uniquement sur les aspects techniques. L'expérience montre que la plupart des échecs ne sont pas dus à des problèmes techniques, mais à des facteurs humains et organisationnels. Voici les patterns d'échec les plus fréquents :
